@@ -1,0 +1,35 @@
+#LY-ROUTES > path:hover {
+    stroke: teal !important;
+    stroke-opacity: 1 !important;
+    stroke-width: 2px !important;
+    cursor:pointer
+}
+
+.tunnels-graph {
+    background-color: #eee;
+    padding: 2em 1em;
+    border: solid 1px gray;
+    border-radius: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hmi-title {
+    background-color: #1B4F72;
+    text-align: center;
+    color: white;
+    padding: .5em 0;
+}
+
+.remove {
+    stroke-opacity: 0.8 !important;
+    stroke: red !important;
+    stroke-width: 4px !important;
+}
+
+.append {
+    stroke-opacity: 0.8 !important;
+    stroke: blue !important;
+    stroke-width: 1px !important;
+}
