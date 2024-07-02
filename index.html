@@ -1915,7 +1915,41 @@
    
     </section>
     <h2 class="hmi-title">SOPORTE A LA TOMA DE DECISIONES</h2>
-    <section class="tunnels-graph"></section>
+    <section class="tunnels-graph">
+      <div class="selector-wrapper">
+        <label for="tipo-evento">Tipo de Evento:</label>
+        <select class="classic" id="tipo-evento"></select>
+      </div>
+      
+      <div class="selector-wrapper">
+        <label for="personas-lastimadas">Personas Lastimadas:</label>
+        <select class="classic" id="personas-lastimadas"></select>
+      </div>
+  
+      <div class="selector-wrapper">
+        <label for="sentido-circulacion">Sentido de Circulación:</label>
+        <select class="classic" id="sentido-circulacion"></select>
+      </div>
+
+      <div class="selector-wrapper">
+        <label for="carriles-bloqueados">Carriles Bloqueados:</label>
+        <select class="classic" id="carriles-bloqueados"></select>
+      </div>
+  
+      <!-- <div class="selector-wrapper">
+        <label for="retorno-inhabilitado">Retorno Inhabilitado:</label>
+        <select class="classic" id="retorno-inhabilitado" multiple></select>
+      </div> -->
+
+      <div class="selector-wrapper">
+        <div id="chip-container" class="chip-container">
+          <input type="text" id="chip-input" placeholder="Select options...">
+          <input type="hidden" id="retorno-inhabilitado" name="retorno-inhabilitado">
+          <div id="dropdown" class="dropdown"></div>
+        </div>
+      </div>
+    </section>
+    <script src="data.js"></script>
     <script src="dijkstra.js"></script>
 </body>
 </html>

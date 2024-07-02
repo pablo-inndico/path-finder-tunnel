@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "name": "Fuego dentro del tunel",
+        "description": "",
+        "category": "fire"
+    },
+    {
+        "_id": 2,
+        "name": "Eventual incendio de vehìculo",
+        "description": "",
+        "category": "fire"
+    },
+    {
+        "_id": 3,
+        "name": "Falla mecanìca del Vehiculo",
+        "description": "",
+        "category": "fire"
+    },
+    {
+        "_id": 4,
+        "name": "Choque o Colisiòn",
+        "description": "",
+        "category": "fire"
+    },
+    {
+        "_id": 5,
+        "name": "Derrumbe o escombros",
+        "description": "",
+        "category": "fire"
+    },
+    {
+        "_id": 6,
+        "name": "Atentado",
+        "description": "",
+        "category": "fire"
+    }
+]

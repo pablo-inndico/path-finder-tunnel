@@ -1,0 +1,50 @@
+[
+    {
+        "_id": 1,
+        "name": "Intercambiador SE10",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 2,
+        "name": "Retorno Guinea",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 3,
+        "name": "Retorno T4D",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 4,
+        "name": "Intercambiador T7I",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 5,
+        "name": "Desvió Naranjo",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 6,
+        "name": "Intercambiador T4D",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 7,
+        "name": "ntercambiador SE5",
+        "description": "",
+        "code": ""
+    },
+    {
+        "_id": 8,
+        "name": "Retorno T9I",
+        "description": "",
+        "code": ""
+    }
+]
