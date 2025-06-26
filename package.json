@@ -1,0 +1,14 @@
+{
+  "name": "services",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "serve": "npx serve ."
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
